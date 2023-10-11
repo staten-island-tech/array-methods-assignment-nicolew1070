@@ -12,9 +12,15 @@ const food = [
     acidity: "low",
     },
     {
-    name: "",
-    color: "",
-    taste: "",
-    acidity: "",
+    name: "kiwi",
+    color: "green",
+    taste: "sour",
+    acidity: "high",
+    },
+    {
+    name: "grape",
+    color: "green",
+    taste: "sweet",
+    acidity: "moderate",
     }
 ]
