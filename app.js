@@ -25,6 +25,6 @@ const food = [
     },
 ];
 
-const name = food.filter((food) => food.firstName)
-name.forEach(())
-console.log(name);
+/*const firstName = food.filter((food) => food.name)*/
+
+food.forEach((food) => food.name.forEach((firstName)=> console.log(firstName)));
