@@ -19,7 +19,7 @@ const food = [
     },
     {
     name: "grape",
-    type: ["cotton candy", "red globe", "concord", "kyoho",],
+    type: ["cotton candy", "red globe", "concord", "kyoho"],
     sweet: true,
     acidity: "moderate",
     },
